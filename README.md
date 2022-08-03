@@ -82,5 +82,7 @@ https://github.com/ardianta/blog/tree/master/content
 
 ## Referensi 
 [Petani kode](https://www.petanikode.com/markdown-pemula/)
+
 [Belajarisme](https://www.belajarisme.com/tutorial/markdown/)
+
 [Github markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
