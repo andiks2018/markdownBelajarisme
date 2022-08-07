@@ -1,6 +1,4 @@
 # markdownBelajarisme
-copas dari belajarisme.com
-
 File markdown dapat kita simpan dengan ekstensi .markdown atau .md.
 
 ## Heading
@@ -39,7 +37,7 @@ https://en.wikipedia.org/wiki/Markdown
 2. Prepare ingredients
 3. Cook delicious things
 
-## Membuat TOdolist
+## Membuat Todolist
 **Tugas hari ini:**
 
 - [x] Menulis artikel tentang markdown
